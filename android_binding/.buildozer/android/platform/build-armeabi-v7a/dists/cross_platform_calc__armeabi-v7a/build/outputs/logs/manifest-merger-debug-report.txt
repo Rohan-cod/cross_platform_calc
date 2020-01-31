@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:5:1-79:12
+INJECTED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:5:1-79:12
+INJECTED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:5:1-79:12
+INJECTED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:5:1-79:12
+INJECTED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:5:1-79:12
+	package
+		ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:6:7-60
+	android:versionName
+		ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:8:7-32
+		INJECTED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml
+		INJECTED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:5:11-69
+	android:versionCode
+		ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:7:7-33
+		INJECTED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml
+		INJECTED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:9:7-37
+supports-screens
+ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:11:5-19:7
+	android:largeScreens
+		ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:14:13-40
+	android:smallScreens
+		ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:12:13-40
+	android:normalScreens
+		ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:13:13-41
+	android:xlargeScreens
+		ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:17:13-41
+	android:anyDensity
+		ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:15:13-38
+uses-sdk
+ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:22:5-74
+INJECTED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:22:5-74
+INJECTED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:22:5-74
+INJECTED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:22:5-74
+INJECTED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:22:5-74
+	android:targetSdkVersion
+		ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:22:42-71
+		INJECTED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml
+		INJECTED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:22:15-41
+		INJECTED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml
+		INJECTED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:25:5-54
+	android:glEsVersion
+		ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:25:19-51
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:28:5-81
+	android:name
+		ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:28:22-78
+application
+ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:44:5-77:19
+	android:label
+		ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:44:18-50
+	android:hardwareAccelerated
+		ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:48:18-52
+	android:icon
+		ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:45:18-47
+	android:allowBackup
+		ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:46:18-44
+	android:theme
+		ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:47:18-65
+meta-data#wakelock
+ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:52:9-63
+	android:value
+		ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:52:44-61
+	android:name
+		ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:52:20-43
+activity#org.kivy.android.PythonActivity
+ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:54:9-68:24
+	android:screenOrientation
+		ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:57:19-55
+	android:label
+		ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:55:19-51
+	android:launchMode
+		ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:59:19-50
+	android:configChanges
+		ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:56:19-199
+	android:name
+		ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:54:19-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:64:13-67:29
+action#android.intent.action.MAIN
+ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:65:17-69
+	android:name
+		ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:65:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:66:17-77
+	android:name
+		ADDED from /Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/AndroidManifest.xml:66:27-74

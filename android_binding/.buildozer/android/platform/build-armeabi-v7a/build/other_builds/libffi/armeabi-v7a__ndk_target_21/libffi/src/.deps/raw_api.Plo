@@ -1,0 +1,100 @@
+src/raw_api.lo: src/raw_api.c include/ffi.h include/ffitarget.h \
+  /Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/lib64/clang/8.0.2/include/stddef.h \
+  /Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/lib64/clang/8.0.2/include/__stddef_max_align_t.h \
+  /Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/lib64/clang/8.0.2/include/limits.h \
+  /Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/limits.h \
+  /Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/sys/cdefs.h \
+  /Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/android/api-level.h \
+  /Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/android/versioning.h \
+  /Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/lib64/clang/8.0.2/include/float.h \
+  /Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/linux/limits.h \
+  /Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/bits/posix_limits.h \
+  include/ffi_common.h fficonfig.h \
+  /Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/alloca.h \
+  /Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/string.h \
+  /Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/xlocale.h \
+  /Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/bits/strcasecmp.h \
+  /Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/sys/types.h \
+  /Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/lib64/clang/8.0.2/include/stdint.h \
+  /Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/stdint.h \
+  /Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/bits/wchar_limits.h \
+  /Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/linux/types.h \
+  /Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/sysroot/usr/include/arm-linux-androideabi/asm/types.h \
+  /Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/asm-generic/int-ll64.h \
+  /Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/sysroot/usr/include/arm-linux-androideabi/asm/bitsperlong.h \
+  /Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/asm-generic/bitsperlong.h \
+  /Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/linux/posix_types.h \
+  /Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/linux/stddef.h \
+  /Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/linux/compiler_types.h \
+  /Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/linux/compiler.h \
+  /Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/sysroot/usr/include/arm-linux-androideabi/asm/posix_types.h \
+  /Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/asm-generic/posix_types.h \
+  /Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/bits/pthread_types.h
+
+include/ffi.h:
+
+include/ffitarget.h:
+
+/Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/lib64/clang/8.0.2/include/stddef.h:
+
+/Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/lib64/clang/8.0.2/include/__stddef_max_align_t.h:
+
+/Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/lib64/clang/8.0.2/include/limits.h:
+
+/Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/limits.h:
+
+/Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/sys/cdefs.h:
+
+/Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/android/api-level.h:
+
+/Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/android/versioning.h:
+
+/Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/lib64/clang/8.0.2/include/float.h:
+
+/Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/linux/limits.h:
+
+/Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/bits/posix_limits.h:
+
+include/ffi_common.h:
+
+fficonfig.h:
+
+/Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/alloca.h:
+
+/Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/string.h:
+
+/Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/xlocale.h:
+
+/Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/bits/strcasecmp.h:
+
+/Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/sys/types.h:
+
+/Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/lib64/clang/8.0.2/include/stdint.h:
+
+/Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/stdint.h:
+
+/Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/bits/wchar_limits.h:
+
+/Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/linux/types.h:
+
+/Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/sysroot/usr/include/arm-linux-androideabi/asm/types.h:
+
+/Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/asm-generic/int-ll64.h:
+
+/Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/sysroot/usr/include/arm-linux-androideabi/asm/bitsperlong.h:
+
+/Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/asm-generic/bitsperlong.h:
+
+/Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/linux/posix_types.h:
+
+/Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/linux/stddef.h:
+
+/Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/linux/compiler_types.h:
+
+/Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/linux/compiler.h:
+
+/Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/sysroot/usr/include/arm-linux-androideabi/asm/posix_types.h:
+
+/Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/asm-generic/posix_types.h:
+
+/Users/rohangupta/.buildozer/android/platform/android-ndk-r19b/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/bits/pthread_types.h:

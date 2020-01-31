@@ -1,0 +1,11 @@
+prefix=/Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/build/other_builds/libffi/armeabi-v7a__ndk_target_21/libffi
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=${prefix}/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.3-rc0
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}

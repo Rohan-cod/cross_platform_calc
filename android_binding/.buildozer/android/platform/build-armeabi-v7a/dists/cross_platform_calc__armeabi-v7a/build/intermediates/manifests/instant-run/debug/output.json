@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_RUN_MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":7211,"versionName":"0.1","enabled":true,"outputFile":"cross_platform_calc__armeabi-v7a-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"org.cross_platform_calc.cross_platform_calc","split":"","minSdkVersion":"21"}}]

@@ -1,0 +1,4 @@
+#Fri Jan 31 21:06:52 IST 2020
+base.0=/Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

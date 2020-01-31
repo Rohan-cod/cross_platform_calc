@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/rohangupta/Desktop/kivyp/android_binding/.buildozer/android/platform/build-armeabi-v7a/dists/cross_platform_calc__armeabi-v7a/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,4,3,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,165,102,217",
+                        "endColumns": "46,51,62,42",
+                        "endOffsets": "97,212,160,255"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,102,154,217",
+                        "endColumns": "46,51,62,42",
+                        "endOffsets": "97,149,212,255"
+                    }
+                }
+            ]
+        }
+    ]
+}
